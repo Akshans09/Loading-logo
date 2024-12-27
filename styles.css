@@ -7,7 +7,7 @@ Body {  display: flex;
 
 
 .loading {  max-width: 50%;
-      line-height: 1.4;
+      line-height: 1.5; /* from 1.4 to 1.5 */
         font-size: 1.2rem;
           font-weight: bold;
             text-align: center;}
